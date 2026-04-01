@@ -23,6 +23,5 @@ dist-ssr
 *.sln
 *.sw?
 
-# Python Dependencies
-backend/venv
-backend/requirements.txt
+# Python
+backend/__pycache__
