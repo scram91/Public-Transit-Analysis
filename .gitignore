@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Python Dependencies
+backend/venv
+backend/requirements.txt
